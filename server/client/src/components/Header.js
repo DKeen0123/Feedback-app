@@ -14,7 +14,6 @@ class Header extends Component {
         return (
           <li><a>Logout</a></li>
         );
-
     }
   }
   render() {
